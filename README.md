@@ -1,29 +1,12 @@
-# Guitar Site V1
+# GuitarSite
 
-This repo contains my old guitar site I attempted when I was first starting to learn Web Development! It is pretty terrible, but it was what I could do at the time with my skills.
+Welcome to one of my very first projects! Decided to place this project here to show where I started and how far i've come. 
 
-To see an updated version of my guitar site, navigate to my GuitarSite-Redesign repo from my profile, or just [click this link](https://github.com/Jayden-Doll/GuitarSite-Redesign).
+My idea was to build a mock product page for a guitar that I love to play, the Taylor GS Mini Mahogany.
 
----
+This was built when I was first starting to learn HTML and CSS, which was hard for me to fully grasp at the time.
 
----
+A lot was learned from this and even though it doesn't look or function properly, I still look back at it as humble beginnings.
 
-<br>
 
-## **The Tools I Used**
-
-<br>
-
-![css icon](html-icon.svg)
-
-**HTML**
-<br>
-<br>
-
-![css icon](css-icon.svg)
-
-**CSS**
-<br>
-<br>
-
----
+<a href="https://taylor-guitar-site.netlify.app/" target="_blank">📝 Check it out here!</a>
