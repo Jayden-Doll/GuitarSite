@@ -14,6 +14,6 @@ A lot was learned from this and even though it doesn't look or function properly
 <a href="https://taylor-guitar-site.netlify.app/" target="_blank">📝 Check it out here!</a>
 
 
-Then, once you are done, check out the improved version I made a few months later <a href="https://taylor-guitar-site.netlify.app/" target="_blank">here!</a>
+Then, once you are done, check out the improved version I made a few months later <a href="https://taylor-mini-mahogany.netlify.app/" target="_blank">here!</a>
 
 ---
