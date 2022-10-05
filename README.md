@@ -1,5 +1,7 @@
 # GuitarSite
 
+---
+
 Welcome to one of my very first projects! Decided to place this project here to show where I started and how far i've come. 
 
 My idea was to build a mock product page for a guitar that I love to play, the Taylor GS Mini Mahogany.
@@ -10,3 +12,5 @@ A lot was learned from this and even though it doesn't look or function properly
 
 
 <a href="https://taylor-guitar-site.netlify.app/" target="_blank">📝 Check it out here!</a>
+
+---
